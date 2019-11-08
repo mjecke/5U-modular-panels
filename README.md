@@ -1,4 +1,5 @@
 # 5U-modular-parts
+CC-BY-SA-4.0
 
 Contained is a ZIP of 3D CAD files in STEP format (readable by any Engineering CAD program) for blank 5U modular synthesizer panels.
 The penals are in the Moog Unit format, and are the type of panel used it Dotcom, original 5U Moog, and others.  
