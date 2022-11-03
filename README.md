@@ -1,8 +1,8 @@
 # 5U-modular-panels
 
 Contained is a ZIP of 3D CAD files in STEP format (readable by any engineering CAD program) for blank 5U modular synthesizer panels.
-The penals are in the Moog Unit format, and are the type of panel used it Dotcom, original 5U Moog, and others.  
-Sizes modeld are 1MU through 10MU width.
+The panals are in the Moog Unit format, and are the type of panel used in "Dotcom", original 5U Moog, and others.  
+Sizes modeled are 1MU through 10MU width.
 
 
 Example image of the STEP models of the 1MU and 2MU panels:
